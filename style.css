@@ -1,0 +1,11 @@
+h2 b{
+    color: aquamarine;
+}
+
+.h2-class b span{
+    color: aqua;
+}
+
+b:hover {
+    color: blue;
+}
