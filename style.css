@@ -1,11 +1,12 @@
 * {
-    padding: 0px;
-    margin: 0px;
+    font-family: 'Noto Sans Thai';
+    font-family: 100;
 }
 
-.contact-form {
+.contact-form{
     font-size: 25px;
-    background-color: black;
-    width: 50vw;
-    height: 100%;
+}
+.contact-form_h2 {
+    font-size: 2em;
+    color: red;
 }
