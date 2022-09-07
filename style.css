@@ -1,11 +1,11 @@
-#color-blue {
-    color: blue;
+* {
+    padding: 0px;
+    margin: 0px;
 }
 
-.color-red {
-    color: red;
-}
-
-h1 {
-    color: blueviolet !important
+.contact-form {
+    font-size: 25px;
+    background-color: black;
+    width: 50vw;
+    height: 100%;
 }
