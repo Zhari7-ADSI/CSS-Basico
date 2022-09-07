@@ -1,12 +1,12 @@
-* {
-    font-family: 'Noto Sans Thai';
-    font-family: 100;
-}
-
-.contact-form{
+.contact-form {
     font-size: 25px;
 }
+
 .contact-form_h2 {
     font-size: 2em;
-    color: red;
-}
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2;
+    font-weight: 500;
+    font-stretch: condensed;
+    font-variant: inherit;
+} 
