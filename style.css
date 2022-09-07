@@ -1,12 +1,13 @@
+* {
+    font-family: 'lobster', cursive;
+    font-weight: 100;
+}
+
 .contact-form {
     font-size: 25px;
 }
 
 .contact-form_h2 {
     font-size: 2em;
-    font-family: 'Courier New', Courier, monospace;
-    line-height: 2;
-    font-weight: 500;
-    font-stretch: condensed;
-    font-variant: inherit;
-} 
+    color: red;
+}
