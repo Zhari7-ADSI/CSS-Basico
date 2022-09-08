@@ -4,15 +4,17 @@
     font-size: 30px;
 }
 
-h2 {
-    display: inline-block;
-    background-color: blueviolet;
-    padding: 100px;
-    box-sizing: border-box;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 2em;
-    box-shadow: 30px 15px 10px 3px black;
-    text-shadow: 2px 2px 7px violet, 2px 2px 7px violet, 2px 2px 7px violet;
-    transform: rotate(-70deg);
+.caja {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: auto;
+    outline:  10px solid blueviolet;
+}
+
+.caja2 {
+    width: 200px;
+    height: 200px;
+    background-color: red; 
+    margin: auto;
 }
