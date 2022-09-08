@@ -4,20 +4,24 @@
     font-size: 30px;
 }
 
-.contenedor {
-    width: 300px;
-    height: 300px;
-    background: blueviolet;
-    margin: 40px;
-    position: relative;
+div {
+    width: 150px;
+    height: 160px;
+    display: block;
+    background-color: yellow;
 }
 
-.hijo {
-    background-color: violet;
-    width: 120px;
-    height: 120px;
-    position: relative;
-    top: -20px;
-    left: -20px;
-    z-index: -1;
+.caja1 {
+    background-color: yellow;
+
+}
+
+.caja2 {
+    background-color: aquamarine;
+    position: absolute;
+    top: 0;
+}
+
+.caja3 {
+    background-color: blueviolet
 }
