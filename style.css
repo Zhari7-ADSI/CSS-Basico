@@ -12,5 +12,7 @@ h2 {
     text-align: center;
     margin: 20px 10px;
     border-radius: 2em;
-    border: 10px dashed violet;
+    box-shadow: 30px 15px 10px 3px black;
+    text-shadow: 2px 2px 7px violet, 2px 2px 7px violet, 2px 2px 7px violet;
+    transform: rotate(-70deg);
 }
