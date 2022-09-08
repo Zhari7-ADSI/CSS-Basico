@@ -1,13 +1,15 @@
 * {
     font-family: 'lobster', cursive;
     font-weight: 100;
+    font-size: 30px;
 }
 
-.contact-form {
-    font-size: 25px;
+h2 {
+    display: inline;
+    background-color: blueviolet;
 }
 
-.contact-form_h2 {
-    font-size: 2em;
-    color: red;
+p {
+    height: 40px;
+    width: 200px;
 }
