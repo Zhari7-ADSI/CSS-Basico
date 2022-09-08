@@ -4,17 +4,25 @@
     font-size: 30px;
 }
 
-.caja {
-    width: 200px;
-    height: 200px;
+div {
+    width: 120px;
+    height: 120px;
+    display: block;
     background-color: yellow;
-    margin: auto;
-    outline:  10px solid blueviolet;
+}
+
+.caja {
+background-color: yellow;
 }
 
 .caja2 {
-    width: 200px;
-    height: 200px;
-    background-color: red; 
-    margin: auto;
+background-color: aquamarine;
+} 
+.caja3 {
+background-color: red;
 }
+
+.caja4 {
+background-color: aqua; 
+}
+
